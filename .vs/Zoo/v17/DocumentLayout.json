@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{376AE80A-50BC-4071-9EF4-C093FB38347B}|Zoo\\Zoo.csproj|c:\\users\\lenovo\\source\\repos\\zoo\\zoo\\vogel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376AE80A-50BC-4071-9EF4-C093FB38347B}|Zoo\\Zoo.csproj|solutionrelative:zoo\\vogel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376AE80A-50BC-4071-9EF4-C093FB38347B}|Zoo\\Zoo.csproj|c:\\users\\lenovo\\source\\repos\\zoo\\zoo\\s\u00E4ugetier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376AE80A-50BC-4071-9EF4-C093FB38347B}|Zoo\\Zoo.csproj|solutionrelative:zoo\\s\u00E4ugetier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{376AE80A-50BC-4071-9EF4-C093FB38347B}|Zoo\\Zoo.csproj|c:\\users\\lenovo\\source\\repos\\zoo\\zoo\\tier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{376AE80A-50BC-4071-9EF4-C093FB38347B}|Zoo\\Zoo.csproj|solutionrelative:zoo\\tier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Vogel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\Vogel.cs",
+              "RelativeDocumentMoniker": "Zoo\\Vogel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\Vogel.cs",
+              "RelativeToolTip": "Zoo\\Vogel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:37:00.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "S\u00E4ugetier.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\S\u00E4ugetier.cs",
+              "RelativeDocumentMoniker": "Zoo\\S\u00E4ugetier.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\S\u00E4ugetier.cs",
+              "RelativeToolTip": "Zoo\\S\u00E4ugetier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:30:06.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Tier.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\Tier.cs",
               "RelativeDocumentMoniker": "Zoo\\Tier.cs",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\Program.cs",
               "RelativeDocumentMoniker": "Zoo\\Program.cs",
@@ -47,8 +81,7 @@
               "RelativeToolTip": "Zoo\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T12:00:43.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T12:00:43.697Z"
             }
           ]
         }
