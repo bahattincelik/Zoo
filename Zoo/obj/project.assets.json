@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\Zoo.csproj",
-      "projectName": "Zoo",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\Zoo.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\ZooManagement.csproj",
+      "projectName": "ZooManagement",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\ZooManagement.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Zoo\\Zoo\\obj\\",
       "projectStyle": "PackageReference",

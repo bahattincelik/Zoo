@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Zoo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ZooManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c993063ba410d5b24acc833de0fc9585277b7d13")]
-[assembly: System.Reflection.AssemblyProductAttribute("Zoo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Zoo")]
+[assembly: System.Reflection.AssemblyProductAttribute("ZooManagement")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ZooManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.
